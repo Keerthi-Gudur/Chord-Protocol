@@ -4,11 +4,6 @@
 
 ## Installation
 
-Group Members: 
----------------
-Akshay Rechintala (UFID: 4581-6988)
-Keerthi Gudur (UFID: 8241-4961)
-
 The overall goal of this project is to implement Chord protocol of the peer-to-peer model and calculate the average hops made per request.
 
 Instruction to run code:
